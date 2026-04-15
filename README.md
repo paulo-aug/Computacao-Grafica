@@ -8,6 +8,7 @@ Repositório criado para organizar meus estudos/atividades da disciplina **"Intr
 Aula01/
 Aula02/
 Aula03/
+Aula04/
 venv/
 requirements.txt
 README.md
