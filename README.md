@@ -10,6 +10,7 @@ Aula02/
 Aula03/
 Aula04/
 Aula05/
+Trabalho01/
 venv/
 requirements.txt
 README.md
