@@ -49,14 +49,15 @@ pip install -r requirements.txt
 Exemplo para rodar a primeira aula:
 
 ```bash
-python Aula01/QuadradoV1.py
+cd Aula01
+python QuadradoV1.py
 ```
 
 Para rodar qualquer outro arquivo, basta informar o caminho correspondente:
 
 ```bash
-python Aula02/nome_do_arquivo.py
-python Aula03/nome_do_arquivo.py
+cd Aula02
+python nome_do_arquivo.py
 ```
 
 ## Dependências utilizadas
